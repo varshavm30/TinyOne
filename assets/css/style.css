@@ -1,0 +1,98 @@
+/* section heroImg */
+
+.heroImg{
+	padding: 60px 0 105px;
+	background-color: #fcdb00;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+	height: 48px;
+	display: inline-block;
+}
+.navbar ul{
+	list-style: none;
+}
+.navbar li{
+	display: inline-block;
+	margin-right: 35px;
+}
+.navbar li: last-child{
+	margin-right: 0;
+}
+.navbar li a{
+	padding: 0px 15px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #010101;
+	text-transform: capitalize;
+	text-decoration: none;
+	height: 48px;
+	display: inline-block;
+	line-height: 48px;
+}
+.iPad{
+	margin-left: 35px;
+}
+.inspire{
+	padding-top: 70px;
+}
+.brandLink li {
+	display: inline-block;
+	margin-right: 40px;
+}
+.brandLink li i{
+	font-size: 40px;
+	color: #010101;
+}
+/* feature section css*/
+
+.featureSection{
+	padding: 120px 0 70px;
+}
+.thumbnail{
+	margin-bottom: 90px;
+}
+
+.thumbHeading{
+	color: #010101;
+	font-weight: bold;
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+
+.thumbpara{
+	font-size: 16px;
+	color: #898989;
+}
+.thumbIcon i{
+	font-size: 42px;
+}
+   /*.footer section css  */
+
+.footer {
+	padding: 90px 0 140px;
+	background-color: #010101;
+}
+.socialIcons {
+	margin-bottom: 135px;
+}
+.socialIcons li{
+	display: inline-block;
+	margin-right: 30px;
+}
+.socialIcons li i{
+	font-size: 35px;
+	color: #fcdb00;
+	
+}
+.footerLink li, .footerLink li a {
+	color: #fff;
+	font-size: 16px;
+}  
+.firstCap li a{
+	text-transform: capitalize;
+	color: #fff;
+}
